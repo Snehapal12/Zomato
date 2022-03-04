@@ -1,3 +1,12 @@
+body{
+    background-color:white;
+    color:black 
+ }
+ .mydark{
+    background-color:black;
+    color:white  
+ }
+
 #Main{
     height: 400px;
 }
